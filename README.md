@@ -60,17 +60,24 @@ The goal is to understand **which factors influenced passenger survival** during
    ```bash
    git clone <https://github.com/RitikOnWork/Data_Storytelling_Analysing_Survival_on_the_Titanic.git>
 
-    exit
+2. Navigate to the project folder
 
-Navigate to the project folder
+3. Open the Jupyter Notebook
 
-Open the Jupyter Notebook
+4. jupyter notebook
 
-jupyter notebook
-
-Run the cells sequentially
+5. Run the cells sequentially
 
 
 ## 📌 Conclusion
 This project demonstrates how data analysis combined with storytelling can uncover meaningful insights and communicate them effectively.
 It serves as a foundational project for anyone starting in Data Analytics / Data Science.
+
+
+## 🧑‍💻 Author
+
+**Ritik Raj**
+AI/ML Enthusiast | DSA | C++| Specializing in AI/ML
+
+* GitHub: [RitikOnWork](https://github.com/RitikOnWork)
+* LinkedIn: *(https://www.linkedin.com/in/ritikonwork/)*

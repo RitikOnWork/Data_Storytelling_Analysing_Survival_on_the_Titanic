@@ -74,10 +74,14 @@ This project demonstrates how data analysis combined with storytelling can uncov
 It serves as a foundational project for anyone starting in Data Analytics / Data Science.
 
 
+---
+
 ## 🧑‍💻 Author
 
 **Ritik Raj**
-AI/ML Enthusiast | DSA | C++| Specializing in AI/ML
+AI/ML Enthusiast | Python Developer | Problem Solver
 
 * GitHub: [RitikOnWork](https://github.com/RitikOnWork)
 * LinkedIn: *(https://www.linkedin.com/in/ritikonwork/)*
+
+---
